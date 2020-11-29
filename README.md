@@ -1,10 +1,10 @@
-#Nome do seu projeto
+## Nome do seu projeto
 
 > Resumo curso sobre o que seu projeto faz 
 
 Um ou dois parágrafos sobre o seu projeto e o que ele faz 
 
-#Instalação 
+# Instalação 
 
 OS x @Linux 
 
@@ -13,15 +13,15 @@ OS x @Linux
 npm install --save
 ````
 
-##Exemplo de uso
+## Exemplo de uso
 
 Alguns xemplos que motivaram as opessoas a utilizarem seu projeto ou que demonstrasse que este é útil para alguma coisa.
 
-##Ambiente de Desenvolvimento
+## Ambiente de Desenvolvimento
 
 Descrever como instalar e preparar qualquer dependência de desenvolvimento para que seu projeto possa ser executado localmente 
 
-##Histórico de Atualizações 
+## Histórico de Atualizações 
 
 * 0.2.1
     * CHANGE: etc 
