@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+teste de revert1q1qaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
 blvblblbalalab
 revertweeeee
+>>>>>>> 2b51bcea582a3d8dd2fc93a0c5877b6163b67b58
